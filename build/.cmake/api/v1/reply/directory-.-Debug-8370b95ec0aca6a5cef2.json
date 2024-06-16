@@ -231,7 +231,8 @@
 			[
 				"description",
 				"launch",
-				"worlds"
+				"worlds",
+				"rviz"
 			],
 			"type" : "directory"
 		},

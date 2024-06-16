@@ -47,6 +47,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
     "/home/manab/ros2_ws/src/my_bot/description"
     "/home/manab/ros2_ws/src/my_bot/launch"
     "/home/manab/ros2_ws/src/my_bot/worlds"
+    "/home/manab/ros2_ws/src/my_bot/rviz"
     )
 endif()
 
