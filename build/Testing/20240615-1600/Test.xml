@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240615-1600-Experimental"
+	Name="manab-HP-Laptop-14s-dr2xxx"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="manab-HP-Laptop-14s-dr2xxx"
+	OSRelease="6.5.0-35-generic"
+	OSVersion="#35~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue May  7 09:00:52 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="140"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="15258"
+	TotalPhysicalMemory="7577"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4025.15"
+	>
+	<Testing>
+		<StartDateTime>Jun 15 21:30 IST</StartDateTime>
+		<StartTestTime>1718467219</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 15 21:30 IST</EndDateTime>
+		<EndTestTime>1718467219</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
